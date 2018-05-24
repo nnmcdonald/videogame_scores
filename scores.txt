@@ -1,0 +1,10 @@
+Ryu 30
+Gordon 95
+Ganondorf 101
+Sephiroth 20
+Ryu 50
+Ryu 80
+Guybrush 70
+Sephiroth 60
+Guybrush 72
+Guybrush 51
